@@ -33,3 +33,5 @@ Check out the live version of the application:
    cd youtube-clone
    ```
 3. Open the `index.html` file in your browser to view the application locally.
+
+## Thank You! 
